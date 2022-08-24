@@ -12,7 +12,7 @@
 #      etc.
 
 # Hint: The next number is found by adding the two numbers before it
-# had to check out the solutions for this one. but really? a fibonacci calculation on "the lightest content week" in a deliverable lab on day 2 after having a lab on day 1??????
+# had to check out the solutions for this one.
 
 a = 1
 b = 1
